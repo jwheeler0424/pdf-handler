@@ -1,6 +1,6 @@
 {
   "name": "pdf-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library tool to help interact with PDF files in a Node.js environment.",
   "license": "LGPL-3.0-or-later",
   "author": {
